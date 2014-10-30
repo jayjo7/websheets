@@ -1,0 +1,1 @@
+Foods = new Meteor.Collection('foods');
